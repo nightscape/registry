@@ -4,7 +4,7 @@ Use
 
     slideshow update
 
-to update your index for template packs and plugin shortcuts.
+to update your shortcut index for template packs and plugins.
 
 
 
