@@ -36,6 +36,11 @@ shower: https://raw.github.com/slideshow-s9/slideshow-shower/master/shower.txt
 
 
 ##################
-# plugins
+# Plugins
 
 analytics: https://raw.github.com/slideshow-s9/analytics/master/analytics.txt.plugin
+
+#############################
+# Quick Starter Stamples
+
+formatting: https://raw.github.com/slideshow-s9/formatting/master/formatting.txt.quick
