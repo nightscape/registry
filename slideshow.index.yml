@@ -1,10 +1,16 @@
-##############################################################
-# Slide Show (S9) Update Index for Template Packs 'n' Plugins
+###########################################################################################
+# Slide Show (S9) Update Index for Template Packs, Quick Starter Samples 'n' Plugins
+
+# find the latest version online at
+#  - https://github.com/slideshow-s9/update
+#
+#  use  $ slideshow update     -- for automatic update e.g. download the latest slideshow.index.yml file
 
 
 #############
-# shortcuts for fetching template packs (w/ optional quick starter templates) 
-#   map shortcut to URI
+# shortcuts for fetching template packs (w/ optional quick starter samples) 
+#   maps shortcut to URI
+
 
 s6blank: https://raw.github.com/slideshow-s9/slideshow-s6-blank/master/s6blank.txt
 
@@ -35,10 +41,19 @@ impress.js:
 shower: https://raw.github.com/slideshow-s9/slideshow-shower/master/shower.txt
 
 
-##################
+##############
 # Plugins
 
 analytics: https://raw.github.com/slideshow-s9/analytics/master/analytics.txt.plugin
+
+tables: https://raw.github.com/slideshow-s9/tables/master/tables.txt.plugin
+
+snippets: https://raw.github.com/slideshow-s9/snippets/master/snippets.txt.plugin
+
+plugins:
+- https://raw.github.com/slideshow-s9/analytics/master/analytics.txt.plugin
+- https://raw.github.com/slideshow-s9/tables/master/tables.txt.plugin
+- https://raw.github.com/slideshow-s9/snippets/master/snippets.txt.plugin
 
 #############################
 # Quick Starter Stamples
