@@ -2,7 +2,7 @@
 
 Use
 
-    slideshow update
+    $ slideshow update
 
 to update your shortcut index for template packs, quick starter samples and plugins.
 
