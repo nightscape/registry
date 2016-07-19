@@ -16,19 +16,19 @@ s6blank: https://raw.github.com/slideshow-templates/slideshow-s6-blank/gh-pages/
 
 s6syntax: https://raw.github.com/slideshow-templates/slideshow-s6-syntax-highlighter/master/s6syntax.txt
 
-s5blank: https://raw.github.com/slideshow-templates/slideshow-s5-blank/master/s5blank.txt
+s5blank: https://raw.github.com/slideshow-templates/slideshow-s5-blank/gh-pages/s5blank.txt
 
 s5themes: https://raw.github.com/slideshow-templates/slideshow-s5-themes/master/s5themes.txt
 
-g5: https://raw.github.com/slideshow-templates/slideshow-google-html5-slides/master/g5.txt
+g5: https://raw.github.com/slideshow-templates/slideshow-google-html5-slides/gh-pages/g5.txt
 
 slidy:
-- https://raw.github.com/slideshow-templates/slideshow-slidy/master/slidy.txt
-- https://raw.github.com/slideshow-templates/slideshow-slidy/master/slidy.txt.quick
+- https://raw.github.com/slideshow-templates/slideshow-slidy/gh-pages/slidy.txt
+- https://raw.github.com/slideshow-templates/slideshow-slidy/gh-pages/slidy.txt.quick
 
 csss:
-- https://raw.github.com/slideshow-templates/slideshow-csss/master/csss.txt
-- https://raw.github.com/slideshow-templates/slideshow-csss/master/csss.txt.quick
+- https://raw.github.com/slideshow-templates/slideshow-csss/gh-pages/csss.txt
+- https://raw.github.com/slideshow-templates/slideshow-csss/gh-pages/csss.txt.quick
 
 deck.js:
 - https://raw.github.com/slideshow-templates/slideshow-deck.js/gh-pages/deck.js.txt
@@ -38,7 +38,7 @@ impress.js:
 - https://raw.github.com/slideshow-templates/slideshow-impress.js/gh-pages/impress.js.txt
 - https://raw.github.com/slideshow-templates/slideshow-impress.js/gh-pages/impress.js.txt.quick
 
-shower: https://raw.github.com/slideshow-templates/slideshow-shower/master/shower.txt
+shower: https://raw.github.com/slideshow-templates/slideshow-shower/gh-pages/shower.txt
 
 
 
