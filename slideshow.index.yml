@@ -62,8 +62,3 @@ plugins:
 - https://raw.github.com/slideshow-s9/slideshow-plugins/master/tables/tables.txt.plugin
 - https://raw.github.com/slideshow-s9/slideshow-plugins/master/snippets/snippets.txt.plugin
 
-
-#############################
-# Quick Starter Stamples
-
-formatting: https://raw.github.com/slideshow-s9/formatting/master/formatting.txt.quick
